@@ -21,7 +21,7 @@ The project utilizes basic Python and file handling for storing and managing use
 3. Run the application using the following command:
 
    ```bash
-   python my_app.py
+   python main.py
    ```
 ## Usage
 
